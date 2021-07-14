@@ -1,0 +1,9 @@
+{
+  "add-to-cart-app": {
+    "component": "AddToCartApp",
+    "composition": "children"
+  },
+  "tag-component": {
+    "component": "TagComponent"
+  }
+}
